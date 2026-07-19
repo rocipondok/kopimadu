@@ -55,8 +55,9 @@
   </div>
 </div>
  <div class="hero-text-box">
-        <h1>Selamat Datang di Website Kami</h1>
+        <h2>Selamat Datang di Website Kami</h2>
         <p>Temukan solusi terbaik untuk kebutuhan Kopi dan Madu Anda di sini.</p>
+        <p>Semua Bisa diorder di Toko AA Dewi Sungai Penuh.</p>
     </div>
 </div>
     </div>
