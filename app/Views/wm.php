@@ -54,6 +54,10 @@
     </div>
   </div>
 </div>
+ <div class="hero-text-box">
+        <h1>Selamat Datang di Website Kami</h1>
+        <p>Temukan solusi terbaik untuk kebutuhan Kopi dan Madu Anda di sini.</p>
+    </div>
 </div>
     </div>
   </div>
