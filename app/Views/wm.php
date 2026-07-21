@@ -58,6 +58,8 @@
         <h2>Selamat Datang di Website Kami</h2>
         <p>Temukan solusi terbaik untuk kebutuhan Kopi dan Madu Anda di sini.</p>
         <p>Semua Bisa diorder di Toko AA Dewi Sungai Penuh.</p>
+        <a href="https://wa.me/6285269615284" class="btn btn-success">Order Sekarang Juga</a>
+
     </div>
 </div>
     </div>
